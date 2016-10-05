@@ -1,0 +1,17 @@
+D:\PersonalProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\PersonalProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\PersonalProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
+D:\PersonalProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\SimpleHTTP\Simple-HTTP-Checker\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\PersonalProjects\SimpleHTTP\Simple-HTTP-Checker\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\PersonalProjects\SimpleHTTP\Simple-HTTP-Checker\WpfApplication1\obj\Release\WpfApplication1.pdb

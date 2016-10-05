@@ -1,0 +1,2 @@
+D:\PersonalProjects\WpfApplication1\WebClient\WebClient\bin\Debug\WebClient.exe.config
+D:\PersonalProjects\SimpleHTTP\Simple-HTTP-Checker\WebClient\WebClient\bin\Debug\WebClient.exe.config
