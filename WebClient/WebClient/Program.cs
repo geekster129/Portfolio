@@ -28,7 +28,7 @@ namespace HTTPReqHelper
             webList.Add("http://www.google.com");
             webList.Add("http://www.yahoo.com/123");
             webList.Add("http://www.lowyat.net");
-            webList.Add("http://www.youtubexxxmunyau.com/123");
+            webList.Add("http://www.youtubexxxblablabla.com/123");
             webList.Add("http://www.faxcebook.com");
 
             foreach(var url in webList)
